@@ -3,7 +3,16 @@
 
 Let's practice the **Natural language with python**.
 
-[chapter 1](NLP_chapter_1.ipynb)
+## [Chapter 1](NLP_chapter_1.ipynb "Language Processing and Python") :-  
+### Language Processing and Python.
+* NLTK download
+* searching text
+* counting vocabulary
+* lexical diversity
+* percentage of occurance
+
+
+
 
 
 
