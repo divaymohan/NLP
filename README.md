@@ -12,8 +12,11 @@ Let's practice the **Natural language with python**.
 * lexical diversity
 * percentage of occurance
 
-#### #### 1.2 [A closer look at python](chapter_1/1.2/NLP_chapter_1.ipynb "Language Processing and Python 1.1")
-
+#### 1.2 [A closer look at python](chapter_1/1.2/NLP_chapter_1.ipynb "Language Processing and Python 1.2")
+* Lists
+* Indexing Lists
+* Strings
+* variables
 
 
 
