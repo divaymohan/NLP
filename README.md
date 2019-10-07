@@ -18,6 +18,19 @@ Let's practice the **Natural language with python**.
 * Strings
 * variables
 
+#### 1.2 [Computing with Language: Simple Statistics](chapter_1/1.3/NLP_chapter_1.ipynb "Language Processing and Python 1.3")
+ * Frequency Distribution
+ * Fine-Grained Selection Of words
+ * Collocation and Bigrams
+ * Counting Other Things
+ #### 1.2 [Back to Python: Making Decisions and Taking Control](chapter_1/1.4/NLP_chapter_1.ipynb "Language Processing and Python 1.3")
+ * Conditionals
+ * Operation on Every Elements
+ * Nested Code Block
+ * Looping with Conditions
+ 
+
+
 
 
 
