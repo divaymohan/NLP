@@ -23,7 +23,7 @@ Let's practice the **Natural language with python**.
  * Fine-Grained Selection Of words
  * Collocation and Bigrams
  * Counting Other Things
- #### 1.4 [Back to Python: Making Decisions and Taking Control](chapter_1/1.4/NLP_chapter_1 .ipynb "Language Processing and Python 1.4")
+ #### 1.4 [Back to Python: Making Decisions and Taking Control](chapter_1/1.4/NLP_chapter_1.ipynb "Language Processing and Python 1.4")
  * Conditionals
  * Operation on Every Elements
  * Nested Code Block
