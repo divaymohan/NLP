@@ -29,6 +29,15 @@ Let's practice the **Natural language with python**.
  * Nested Code Block
  * Looping with Conditions
  
+## Chapter 2 :-
+### Accesing Text Corpora and Lexical Resources.
+
+#### 1.1 [Accessing Text Corpora](chapter_2/2.1/NLP_chapter_2.ipynb "Language Processing and Python 2.1")
+* Gutenberg
+* searching text
+* counting vocabulary
+* lexical diversity
+* percentage of occurance
 
 
 
