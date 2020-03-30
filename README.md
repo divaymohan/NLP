@@ -1,4 +1,6 @@
 # NLP
+## Data Visulization With English Language
+* [Bar Graph and Distribution](DataVisualization/ExploratoryDataAnalysis.md "Easy Data Visualization")
 ## Natural Language Processing
 
 Let's practice the **Natural language with python**.
@@ -38,6 +40,8 @@ Let's practice the **Natural language with python**.
 * counting vocabulary
 * lexical diversity
 * percentage of occurance
+
+
 
 
 
