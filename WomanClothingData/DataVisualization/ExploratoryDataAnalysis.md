@@ -1,5 +1,7 @@
+# Data Visualization
+[<-  Back to Home](../../README.md)
 
-
+## Tools Needed
 ```python
 import pandas as pd
 import numpy as np
@@ -7,8 +9,6 @@ import matplotlib.pyplot as plt
 import bokeh as bh
 from textblob import TextBlob
 import plotly.graph_objects as go
-
-
 ```
 
 
