@@ -1,7 +1,8 @@
 # NLP
+
 ## Data Visulization With English Language
-* [Bar Graph and Distribution](FakeJobsPradictor/MissingValueCheck/NoteBook1.md "Easy Data Visualization")
-* [Missing Values](WomanClothingData/DataVisualization/ExploratoryDataAnalysis.md "Easy Data Visualization")
+* [Bar Graph and Distribution](WomanClothingData/DataVisualization/ExploratoryDataAnalysis.md "Easy Data Visualization")
+* [Missing Values](FakeJobsPradictor/MissingValueCheck/NoteBook1.md "Easy Data Visualization")
 ## Natural Language Processing
 
 Let's practice the **Natural language with python**.
